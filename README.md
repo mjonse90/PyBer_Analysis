@@ -10,7 +10,7 @@ Software: Python 3.7.6, JupyterLab 2.26
 The chart above is a summary of the findings from our analysis. 
 We can conclude that urban areas have the most riders while rural areas have the least.
 Because of the increased ridership, more drivers are also present in the urban areas than suburban and rural areas.
-It's also worth noting that because of the high demand for riders in urban areas, prices for both riders and drivers are lower than that of suburban and rural areas.
+It's also worth noting that because of the high demand for riders in urban areas, fares for both riders and drivers are lower than that of suburban and rural areas.
 
 ## Summary
 Based on the analysis, we suggest increasing the number of drivers in rural and suburban areas. There are nearly 4x the amount of urban drivers than suburban. And nearly 6x the number of urban drivers than rural drivers. In addition, our analysis shows that fares are higher in rural and suburban areas compared to urban areas, indicating that riders are going longer distances. Longer rides mean more drivers are not as available to take new ride requests as they are in urban areas.
